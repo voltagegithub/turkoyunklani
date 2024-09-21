@@ -1,0 +1,212 @@
+Uri: https://assets.production.linktr.ee/cep/cep.min.js?v2
+File Name: C:\Downloaded Web Sites\linktr.ee\cep\cep.min.js
+Content Type: application/javascript
+
+Uri: https://assets.production.linktr.ee/consent-scripts/one-trust.js
+File Name: C:\Downloaded Web Sites\linktr.ee\consent-scripts\one-trust.js
+Content Type: application/javascript
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/944e9746c5d96f1a74674bcedd63c952e619eb46/_buildManifest.js
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\944e9746c5d96f1a74674bcedd63c952e619eb46\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/944e9746c5d96f1a74674bcedd63c952e619eb46/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\944e9746c5d96f1a74674bcedd63c952e619eb46\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/chunks/7773-58e995c1fa17912d.js
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\chunks\7773-58e995c1fa17912d.js
+Content Type: application/javascript
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/chunks/framework-ca32d4ec620501e2.js
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\chunks\framework-ca32d4ec620501e2.js
+Content Type: application/javascript
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/chunks/main-8a4f0e1845e55dbf.js
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\chunks\main-8a4f0e1845e55dbf.js
+Content Type: application/javascript
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/chunks/pages/[profile]-e6d32ab588179db6.js
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\chunks\pages\[profile]-e6d32ab588179db6.js
+Content Type: application/javascript
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/chunks/pages/_app-009cdfe249309a30.js
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\chunks\pages\_app-009cdfe249309a30.js
+Content Type: application/javascript
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/chunks/webpack-ceecbeece463d728.js
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\chunks\webpack-ceecbeece463d728.js
+Content Type: application/javascript
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/css/2f6f1b62c9dc4388.css
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\css\2f6f1b62c9dc4388.css
+Content Type: text/css
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-114x114.png
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\logo-assets\apple-icon-114x114.png
+Content Type: image/png
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-120x120.png
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\logo-assets\apple-icon-120x120.png
+Content Type: image/png
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-144x144.png
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\logo-assets\apple-icon-144x144.png
+Content Type: image/png
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-152x152.png
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\logo-assets\apple-icon-152x152.png
+Content Type: image/png
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-180x180.png
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\logo-assets\apple-icon-180x180.png
+Content Type: image/png
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-57x57.png
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\logo-assets\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-60x60.png
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\logo-assets\apple-icon-60x60.png
+Content Type: image/png
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-72x72.png
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\logo-assets\apple-icon-72x72.png
+Content Type: image/png
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-76x76.png
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\logo-assets\apple-icon-76x76.png
+Content Type: image/png
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/logo-assets/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\logo-assets\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/logo-assets/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\logo-assets\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/logo-assets/favicon-96x96.png
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\logo-assets\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/logo-assets/favicon.ico
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\logo-assets\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/logo-assets/favicon.png
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\logo-assets\favicon.png
+Content Type: image/png
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/manifest.json
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\manifest.json
+Content Type: application/json
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/media/flags.f73aa829.png
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\media\flags.f73aa829.png
+Content Type: image/png
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/media/flags@2x.2704c069.png
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\media\flags@2x.2704c069.png
+Content Type: image/png
+
+Uri: https://assets.production.linktr.ee/profiles/_next/static/media/LinkSansVF.251c9878.woff2
+File Name: C:\Downloaded Web Sites\linktr.ee\profiles\_next\static\media\LinkSansVF.251c9878.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\linktr.ee\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\linktr.ee\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2
+File Name: C:\Downloaded Web Sites\linktr.ee\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\linktr.ee\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\linktr.ee\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\linktr.ee\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\linktr.ee\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://linktr.ee/turkoyun
+File Name: C:\Downloaded Web Sites\linktr.ee\turkoyun.html
+Content Type: text/html
+
+Uri: https://ugc.production.linktr.ee/03526859-7c11-41b6-96e5-48aa8ce5ed6f_9130665--1-.png?io=true&size=thumbnail-stack-v1_0
+File Name: C:\Downloaded Web Sites\linktr.ee\03526859-7c11-41b6-96e5-48aa8ce5ed6f_9130665--1-.png
+Content Type: image/jpeg
+
+Uri: https://ugc.production.linktr.ee/0b69aeb8-a4e0-4ab8-9f74-2cd834fde1b3_7f1aa3af-4725-48e1-99b8-8935cb51de9b-YouTube-23392.png?io=true&size=thumbnail-stack-v1_0
+File Name: C:\Downloaded Web Sites\linktr.ee\0b69aeb8-a4e0-4ab8-9f74-2cd834fde1b3_7f1aa3af-4725-48e1-99b8-8935cb51de9b-YouTube-23392.png
+Content Type: image/jpeg
+
+Uri: https://ugc.production.linktr.ee/1af1bf68-e781-47b4-ae4e-bf33229fa171_db1ba26d-6a3d-42e3-b890-00ff29eba0ab-Spotify-icon-icons.com-66783.png?io=true&size=thumbnail-stack-v1_0
+File Name: C:\Downloaded Web Sites\linktr.ee\1af1bf68-e781-47b4-ae4e-bf33229fa171_db1ba26d-6a3d-42e3-b890-00ff29eba0ab-Spotify-icon-icons.com-66783.png
+Content Type: image/jpeg
+
+Uri: https://ugc.production.linktr.ee/322dbab0-6dc1-4a9a-9266-fdf9e720d1a9_aec19ffd-ddbe-4cf3-9a6c-f2bdcf5c8bdb-twitter-x-new-logo-square-x-icon-256075.png?io=true&size=thumbnail-stack-v1_0
+File Name: C:\Downloaded Web Sites\linktr.ee\322dbab0-6dc1-4a9a-9266-fdf9e720d1a9_aec19ffd-ddbe-4cf3-9a6c-f2bdcf5c8bdb-twitter-x-new-logo-square-x-icon-256075.png
+Content Type: image/jpeg
+
+Uri: https://ugc.production.linktr.ee/386c2b6c-82a4-452e-a430-440fd2e793c4_46ae2012-fb56-4df3-bea7-21a53ffbb449-Kick-29.png?io=true&size=thumbnail-stack-v1_0
+File Name: C:\Downloaded Web Sites\linktr.ee\386c2b6c-82a4-452e-a430-440fd2e793c4_46ae2012-fb56-4df3-bea7-21a53ffbb449-Kick-29.png
+Content Type: image/jpeg
+
+Uri: https://ugc.production.linktr.ee/3f3c267d-8504-49e9-98f1-a21202f2c350_f2bfdb19-116b-4131-bb1c-5ccd18e88637-steam-alt-macos-bigsur-icon-189698.png?io=true&size=thumbnail-stack-v1_0
+File Name: C:\Downloaded Web Sites\linktr.ee\3f3c267d-8504-49e9-98f1-a21202f2c350_f2bfdb19-116b-4131-bb1c-5ccd18e88637-steam-alt-macos-bigsur-icon-189698.png
+Content Type: image/jpeg
+
+Uri: https://ugc.production.linktr.ee/400f149f-b948-422a-8fe7-6985c7b3675b_60502803-140b-44d4-b4dc-575e2d8fc02f-3721672-instagram-108066.png?io=true&size=thumbnail-stack-v1_0
+File Name: C:\Downloaded Web Sites\linktr.ee\400f149f-b948-422a-8fe7-6985c7b3675b_60502803-140b-44d4-b4dc-575e2d8fc02f-3721672-instagram-108066.png
+Content Type: image/jpeg
+
+Uri: https://ugc.production.linktr.ee/4a0aed7d-9e2c-4ccd-a9ac-4b84be0b7500_7f1aa3af-4725-48e1-99b8-8935cb51de9b-YouTube-23392.png?io=true&size=thumbnail-stack-v1_0
+File Name: C:\Downloaded Web Sites\linktr.ee\4a0aed7d-9e2c-4ccd-a9ac-4b84be0b7500_7f1aa3af-4725-48e1-99b8-8935cb51de9b-YouTube-23392.png
+Content Type: image/jpeg
+
+Uri: https://ugc.production.linktr.ee/4ac2d7bb-7275-446a-b2a7-25d1d5148ac6_f2bfdb19-116b-4131-bb1c-5ccd18e88637-steam-alt-macos-bigsur-icon-189698.png?io=true&size=thumbnail-stack-v1_0
+File Name: C:\Downloaded Web Sites\linktr.ee\4ac2d7bb-7275-446a-b2a7-25d1d5148ac6_f2bfdb19-116b-4131-bb1c-5ccd18e88637-steam-alt-macos-bigsur-icon-189698.png
+Content Type: image/jpeg
+
+Uri: https://ugc.production.linktr.ee/51851500-f0df-4b95-b47f-b18841e00f47_channels4-profile--24--photoaidcom-cropped.jpeg?io=true&size=avatar-v3_0
+File Name: C:\Downloaded Web Sites\linktr.ee\51851500-f0df-4b95-b47f-b18841e00f47_channels4-profile--24--photoaidcom-cropped.jpeg
+Content Type: image/jpeg
+
+Uri: https://ugc.production.linktr.ee/66a85811-38c8-469b-94e8-12a7cc51cbcd_946568b1-0485-4faa-8972-8f3859eae5f4-discord-icon-130958.png?io=true&size=thumbnail-stack-v1_0
+File Name: C:\Downloaded Web Sites\linktr.ee\66a85811-38c8-469b-94e8-12a7cc51cbcd_946568b1-0485-4faa-8972-8f3859eae5f4-discord-icon-130958.png
+Content Type: image/jpeg
+
+Uri: https://ugc.production.linktr.ee/7aa83a6f-0714-40f8-ac40-4023365368ab_60502803-140b-44d4-b4dc-575e2d8fc02f-3721672-instagram-108066.png?io=true&size=thumbnail-stack-v1_0
+File Name: C:\Downloaded Web Sites\linktr.ee\7aa83a6f-0714-40f8-ac40-4023365368ab_60502803-140b-44d4-b4dc-575e2d8fc02f-3721672-instagram-108066.png
+Content Type: image/jpeg
+
+Uri: https://ugc.production.linktr.ee/86a75df8-555f-4666-984c-89389eb49e85_c1d3cb80-ea00-43f2-8e10-4df7d42b2f1d-gnometwitch-93827.png?io=true&size=thumbnail-stack-v1_0
+File Name: C:\Downloaded Web Sites\linktr.ee\86a75df8-555f-4666-984c-89389eb49e85_c1d3cb80-ea00-43f2-8e10-4df7d42b2f1d-gnometwitch-93827.png
+Content Type: image/jpeg
+
+Uri: https://ugc.production.linktr.ee/ace536cf-928c-4f28-ba62-1fc0a51d6b07_68cc34cf-e75d-4af5-a22c-a0c5a5e5571d-media-social-tiktok-icon-124256.png?io=true&size=thumbnail-stack-v1_0
+File Name: C:\Downloaded Web Sites\linktr.ee\ace536cf-928c-4f28-ba62-1fc0a51d6b07_68cc34cf-e75d-4af5-a22c-a0c5a5e5571d-media-social-tiktok-icon-124256.png
+Content Type: image/jpeg
+
+Uri: https://www.googleadservices.com/pagead/conversion_async.js
+File Name: C:\Downloaded Web Sites\linktr.ee\pagead\f.txt
+Content Type: text/javascript
+
